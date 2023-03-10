@@ -1,22 +1,16 @@
 
 
-| **As a** | **I can**                                                                                      |**Test Scenario #**  |
-|:--------:|:-----------------------------------------------------------------------------------------------|:-----------------:|
-|  Seller  | Register, login, and logout (these are not new features - they are given in class).            |[1](#feature-1-register),[2](#feature-2-login),[3](#feature-3-logout)             |
-|  Seller  | Create, modify and disable my store profile (3 features).                                      |[4](#feature-4-create-profile),[5](#feature-5-modify-profile),[6](#feature-6-disable-profile)              |
-|  Seller  | Add, modify and delete products for sale (3 features).                                         |[7](#feature-7-add-product),[8](#feature-8-modify-product),[9](#feature-9-delete-product)                    |
-|  Seller  | View product sales, cancel an order or mark an order as shipped (3 features).                  |[10](#feature-10-view-sales),[11](#feature-11-cancel-order),[12](#feature-12-mark-order-shipped)       |
-|  Seller  | Add, modify and delete services (3 features).                                                  |[13](#feature-13-add-service),[14](#feature-14-modify-service),[15](#feature-15-delete-service)        |
-|  Seller  | View client appointments for service, modify appointment and cancel appointment (3 features).  |[16](#feature-16-view-appointments),[17](#feature-17-modify-client-appointment),[18](#feature-18-cancel-client-appointment)        |
-|  Seller  | Change appointment status (1 features).                                                        |[19](#feature-19-change-appointment-status)                |
-|  User    | Register, login, and logout (these are not new features - they are given in class).            |[1](#feature-1-register),[2](#feature-2-login),[3](#feature-3-logout)             |
-|  User    | Add, modify, delete a car to/from my garage (Year/Make/Model/Engine/VIN) (3 features).         |[20](#feature-20-add-car),[21](#feature-21-modify-car),[22](#feature-22-delete-car)           |
-|  User    | Schedule, modify and cancel my service appointment/s (3 features).                             |[23](#feature-23-schedule-my-appointment),[24](#feature-24-modify-my-appointment),[25](#feature-25-cancel-my-appointment)         |
-|  User    | Check the status of the current service appointment (1 feature).                               |[26](#feature-26-view-my-appointment-status)                 |
-|  User    | Can check past service records. (1 feature).                                                   |[27](#feature-27-view-past-records)                 |
-|  User    | Search the product catalog (1 feature).                                                        |[28](#feature-28-search-product)                |
-|  User    | See product details (1 feature).                                                               |[29](#feature-29-view-product-details)                 |
-|  User    | Add, modify and remove quantities of products from/to shopping cart (3 features).              |[30](#feature-30-add-to-cart),[31](#feature-31-modify-cart),[32](#feature-32-remove-cart)           |
-|  User    | Checkout my order (1 feature).                                                                 |[33](#feature-33-checkout-cart)                |
+| **As a** | **I can**                                                                                      
+|:--------:|:-----------------------------------------------------------------------------------------------
+|  Admin   | Register, login, and logout (3 features)                                                       |
+|  Admin   | Create, modify and disable my store profile (3 features).                                      |
+|  Admin   | Add, modify and delete products for sale (3 features).                                         |               
+|  User    | Register, login, and logout   (3 features)                                                     |
+|  User    | Add, modify, delete a car to/from my garage (Year/Make/Model/Engine/VIN) (3 features).         |
+|  User    | Schedule, modify and cancel my service appointment/s (3 features).                             |
+|  User    | Search the product catalog (1 feature).                                                        |
+|  User    | See product details (1 feature).                                                               |
+|  User    | Add, modify and remove quantities of products from/to shopping cart (3 features).              |
+|  User    | Checkout my order (1 feature).                                                                 |
   
  
