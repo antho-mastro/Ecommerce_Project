@@ -1,28 +1,4 @@
 
-# myRide
-## Deliverable 2 - Feature Suite and ERD
-*420-411-VA ECOMMERCE section 00002*    
-
-We will build a Canadian Tire like Web application where registered customers can add their cars and schedule service appointments, track them and have history of previous records online; as well as buy relative products/accessories for their car.  
-  
-## Table of contents  
-1. [List of Features](#our-project-will-support-the-following-feature-stories)
-2. [Test Scenarions](#test-scenarios) 
-2. [Database Design](#erd) 
-
-## Team: BootstrapFTW   
-
-##### Team Members:  
-
-- [Veaceslav Vlas](https://github.com/vlasslavic)
-- [Anthony Mastronardi](https://github.com/antho-mastro)
-##### Teacher:  
-- [Michel Paquette](https://github.com/paquettm)
-
-<div style='page-break-after: always'></div>
-
-## Our project will support the following feature stories:
- This is our complete list of features along with the reference to their Test scenarions:
 
 | **As a** | **I can**                                                                                      |**Test Scenario #**  |
 |:--------:|:-----------------------------------------------------------------------------------------------|:-----------------:|
@@ -43,4 +19,4 @@ We will build a Canadian Tire like Web application where registered customers ca
 |  User    | Add, modify and remove quantities of products from/to shopping cart (3 features).              |[30](#feature-30-add-to-cart),[31](#feature-31-modify-cart),[32](#feature-32-remove-cart)           |
 |  User    | Checkout my order (1 feature).                                                                 |[33](#feature-33-checkout-cart)                |
   
-<div style='page-break-after: always'></div>  
+ 
